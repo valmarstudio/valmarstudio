@@ -1,4 +1,4 @@
-function Campaña() {
+function Campana() {
   return (
     <section className="page campaign-page">
 
@@ -92,4 +92,4 @@ function Campaña() {
   );
 }
 
-export default Campaña;
+export default Campana;
