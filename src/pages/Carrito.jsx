@@ -59,7 +59,7 @@ function Carrito() {
       `TOTAL: $${total}`;
 
     window.open(
-      `https://wa.me/5492610000000?text=${finalMessage}`,
+      `https://wa.me/5492612051343?text=${finalMessage}`,
       "_blank"
     );
   };

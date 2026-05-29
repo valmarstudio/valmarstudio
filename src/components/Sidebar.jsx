@@ -17,7 +17,7 @@ function Sidebar() {
 
         <div className="sidebar-top">
           <img src={logo} className="sidebar-logo" />
-          <h2 className="sidebar-brand">ValMar Studio</h2>
+          <h2 className="sidebar-brand">Bienvenid@!</h2>
         </div>
 
         <div className="sidebar-center">
