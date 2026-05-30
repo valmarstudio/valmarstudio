@@ -46,17 +46,14 @@ function Campana() {
               Etiquetar a 3 emprendedores.
             </li>
 
-            <li>
-              Transferir $2.000 a 
-              <a
-                href="https://mpago.la/1bc7idK"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="campaign-link"
-              >
-                Mercado Pago
-              </a>
-            </li>
+           <a
+  href="https://wa.me/542612051343?text=Hola!%20ya%20realicé%20el%20pago%20de%20la%20campaña.%20Adjunto%20el%20comprobante."
+  target="_blank"
+  rel="noopener noreferrer"
+  className="campaign-whatsapp-btn"
+>
+  📲 Enviar comprobante
+</a>
             <li>
   Enviar el comprobante de pago y contarnos
   por qué crees que deberías ganar esta campaña.
