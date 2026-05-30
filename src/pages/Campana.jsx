@@ -49,7 +49,7 @@ function Campana() {
             <li>
               Transferir $2.000 a 
               <a
-                href="https://mpago.la/TU-LINK"
+                href="https://mpago.la/1bc7idK"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="campaign-link"
@@ -63,7 +63,7 @@ function Campana() {
 </li>
           </ul>
           <a
-  href="https://wa.me/542616136651"
+  href="https://wa.me/542612051343"
   target="_blank"
   rel="noopener noreferrer"
   className="campaign-whatsapp-btn"
